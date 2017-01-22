@@ -21,6 +21,14 @@
 # Question 5
 ### Define Boxing and Unboxing?
 
+<p>Boxing is converting a value type to an object type.</p>
+<p>Unboxing is extracting the value type from the object type.</p>
+  ```C#
+  int i =13; 
+  object myObject = i; //Boxing-implicit 
+  i = (int)myObject; //Unboxing-explicit
+  ```
+
 # Question 6
 ### Difference between Constants and Read-Only variables?
 
