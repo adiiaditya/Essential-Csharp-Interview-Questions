@@ -8,7 +8,6 @@
 <p>3. In <code>Array</code> no need to cast elements while retrieving whereas in <code>ArrayList</code> items need to be cast to appropriate data type while retrieving.</p>
 </blockquote>
 
-
 # Question 2
 ### Difference between String and StringBuilder?
 
@@ -20,9 +19,10 @@
 
 # Question 5
 ### Define Boxing and Unboxing?
-
+<blockquote>
 <p>Boxing is converting a value type to an object type.</p>
 <p>Unboxing is extracting the value type from the object type.</p>
+</blockquote>
   ```C#
   int i =13; 
   object myObject = i; //Boxing-implicit 
@@ -31,7 +31,11 @@
 
 # Question 6
 ### Difference between Constants and Read-Only variables?
-
+<blockquote>
+<p>1. <code>Constants</code> are evaluated compile-time while <code>Read-Only variables</code> are evaluated at runtime.</p>
+<p>2. <code>Constants</code> only support value-type variables while <code>Read-Only variables</code> can hold reference type variables.</p>
+<p>3. <code>Constants</code> should be used when the value won't change during runtime while <code>Read-Only variables</code> are used mostly when their actual value is unknown before the runtime.</p>
+</blockquote>
 
 
 # License
