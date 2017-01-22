@@ -16,6 +16,10 @@
 
 # Question 4
 ### Difference between while and for loop?
+<blockquote>
+<p>Both loops are used when a unit of code needs to execute repeatedly.</p>
+<p><code>For loop</code> is used when you know how many times you need to iterate through the code whereas <code>while loop</code> is used when you need to repeat something until a given statement is true.</p>
+</blockquote>
 
 # Question 5
 ### Define Boxing and Unboxing?
