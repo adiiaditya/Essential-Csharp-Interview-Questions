@@ -10,6 +10,10 @@
 
 # Question 2
 ### Difference between String and StringBuilder?
+<blockquote>
+<p>1. <code>String</code> is immutable i.e. if we create a string object then we can't modify it & it always creates new object of string type in memory while <code>StringBuilder</code> is mutable i.e. if we create StringBuilder object then we can perform any operation like insert, replace or append without creating new instance every time.</p>
+<p>2. <code>String</code> belongs to System class while <code>StringBuilder</code> belongs to System.Text class.</p>
+</blockquote>
 
 # Question 3
 ### Difference between ArrayList and HashTable?
