@@ -18,7 +18,8 @@
 # Question 3
 ### Difference between ArrayList and HashTable?
 <blockquote>
-
+<p>1. <code>ArrayList</code> stores only the value at a particular index while <code>HashTable</code> stores data as Key-Value pair.</p>
+<p>2. To access value from <code>ArrayList</code>, index number should be passed while to access value from <code>HashTable</code> key should be passed.</p>
 </blockquote>
 
 # Question 4
