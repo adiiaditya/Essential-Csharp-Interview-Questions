@@ -49,6 +49,13 @@
 <p>3. <code>Constants</code> should be used when the value won't change during runtime while <code>Read-Only variables</code> are used mostly when their actual value is unknown before the runtime.</p>
 </blockquote>
 
+# Question 7
+### Difference between == and Equals()?
+<blockquote>
+<p>1. <code>==</code> is the comparison operator while <code>Equals()</code> compares the contents of a String.</p>
+<p>2. <code>==</code> compares the reference identity as well as the contents while <code>Equals()</code> compares only the contents.</p>
+</blockquote>
+
 
 # License
 
