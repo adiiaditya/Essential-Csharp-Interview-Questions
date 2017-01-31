@@ -56,6 +56,9 @@
 <p>2. <code>==</code> compares the reference identity as well as the contents while <code>Equals()</code> compares only the contents.</p>
 </blockquote>
 
+# Question 8
+# Question 9
+# Question 10
 
 # License
 
