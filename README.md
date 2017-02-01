@@ -60,6 +60,18 @@
 # Question 9
 # Question 10
 
+# Question 11
+# Question 12
+# Question 13
+
+# Question 14
+# Question 15
+# Question 16
+
+# Question 17
+# Question 18
+# Question 19
+
 # License
 
 This book is released under a Creative Commons Attribution-Noncommercial- No Derivative Works 3.0 United States License.
