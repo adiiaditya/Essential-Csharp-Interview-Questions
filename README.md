@@ -64,6 +64,11 @@
 </blockquote>
 
 # Question 9
+### What is the default access for a class & the default access for members?
+<blockquote>
+<p>The default access for a class is Internal & the default access for members is Private.</p>
+</blockquote>
+
 # Question 10
 
 # Question 11
