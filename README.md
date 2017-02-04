@@ -57,6 +57,12 @@
 </blockquote>
 
 # Question 8
+### Difference between Finalize and Dispose?
+<blockquote>
+<p>1. <code>Finalize</code> is used to free unmanaged resources like files, database connections, etc held by an object before that object is destroyed. Internally, it is called by Garbage Collector & can't be called by user code while <code>Dispose</code> is used to free unmanaged resources at any time. Explicitally, it is called by user code.</p>
+<p>2. <code>Finalize</code> belongs to the Object class while <code>Dispose</code> belongs to IDisposable interface and the class which is implementing Dispose method must implement this interface.</p>
+</blockquote>
+
 # Question 9
 # Question 10
 
