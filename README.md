@@ -88,8 +88,9 @@
 ### Can 'this' keyword be used within a static method?
 <blockquote>
 <p>
-'this' keyword can't be used in static methods because it returns a reference to the current instance of the class containing it. Static methods can't be instantiated, so they are called by the name of a class and not by instance. Therefore, we can’t use 'this' keyword in the body of static methods.
+'this' keyword can't be used in static methods because it returns a reference to the current instance of the class containing it. Static methods can't be instantiated, so they are called by the name of a class and not by instance. Therefore, we can’t use 'this' keyword in the body of static methods.</p>
 
+<p>
 By definition, 'this' keyword is a special type of reference variable that is implicitly defined within each constructor and non-static method as a first parameter of the type class in which it is defined.
 </p>
 </blockquote>
