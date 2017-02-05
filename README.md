@@ -72,20 +72,17 @@
 # Question 10
 ### Can multiple catch blocks be executed in c#?
 <blockquote>
-<p></p>
+<p>No. We can use multiple catch blocks with every try but when an Exception is thrown by the debugger, it tries matching the exception type with their signature and catch the exception by the particular catch block, so we can use multiple catch blocks but only one catch can be executed at once.</p>
 </blockquote>
-
-# Question 11
-# Question 12
-# Question 13
-
-# Question 14
-# Question 15
-# Question 16
-
-# Question 17
-# Question 18
-# Question 19
+```C#
+    try {  
+            Console.WriteLine("Sample Data");  
+        } catch (NullPointerException ex) {  
+            Console.WriteLine("NullPointerException");  
+        } catch (Exception e) {  
+            Console.WriteLine("Exception");  
+        }
+  ```
 
 # License
 
