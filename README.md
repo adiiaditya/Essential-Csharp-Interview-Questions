@@ -70,6 +70,10 @@
 </blockquote>
 
 # Question 10
+### Can multiple catch blocks be executed in c#?
+<blockquote>
+<p></p>
+</blockquote>
 
 # Question 11
 # Question 12
